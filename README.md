@@ -4,7 +4,7 @@
 
 1. Unzip the apk and get the libgodot_android.so in the lib\arm64-v8a folder
 2. put libgodot_android.so in project folder and run main.py
-3. The script will generate several possible keys, some of which may be complex ones
+3. The script will generate several possible keys, and you should choose the more complex one
 
 # **Acknowledgments**
 
